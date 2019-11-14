@@ -1,0 +1,13 @@
+Why MVC?
+	1. code usability
+	2. separation of concern
+	
+
+What is MVC?
+	----Controller-----
+	|			   	   |
+	view			Model
+	
+
+	
+Design pattern MVC:	Model View Controller
